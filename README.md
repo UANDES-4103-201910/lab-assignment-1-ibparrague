@@ -38,9 +38,13 @@ script: Tag that tag is used to define a client-side script (JavaScript).
 
 4)
 hn.js?5rgSLyaCjnnNgCLKQdUi: Javascript document that probobably contains the interactivity with the page itself.
+
 news.css?5rgSLyaCjnnNgCLKQdUi: The CSS file that gives the site it's own Style, not posible with HTML on it's own
+
 grayarrow2x.gif: A Gif image.
+
 s.gif: Another Gif image.
+
 y18.gif: A third Gif image
 
 5)
